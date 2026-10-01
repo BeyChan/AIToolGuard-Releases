@@ -96,5 +96,4 @@ shasum -a 256 -c SHA256SUMS.txt
 
 ## 从源码构建
 
-本仓库不提供源码。内部开发者请从私有仓库构建后，用 `make_release.sh` +
-`release/publish.sh` 发布到这里。
+本仓库不提供源码。
